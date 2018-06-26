@@ -1,0 +1,21 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Selenium@1982",
+    "database": "Tessaract_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "use_env_variable": "mysql://fcctwqy1yk3ji64k:uiystjun3joxbp0h@wm63be5w8m7gs25a.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/cdipyzc6hyn0fz8c",
+    "dialect": "mysql"
+  }
+  
+}
