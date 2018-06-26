@@ -20,7 +20,7 @@
   -moz-background-size: auto;
   -o-background-size: full;
   background-size: cover;
-  
+
 
 }
 
@@ -39,7 +39,7 @@
   position: relative;
   top: 20px;
   background-color: red;
-  color: pink;
+  color: orange;
 }
 
 #groups {
@@ -61,9 +61,9 @@
   background-color: green;
 }
 
-.table:hover {
-  color: #00BFFF;
-  background-color: #FF69B4;
+.table {
+
+  background-color: orange;
 }
 
 #btn {
